@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="1.6" type="file" method="upgrade">
     <name>Agora Pro 4 de-DE Sprachpaket</name>
-    <version>4.10.1</version>
-    <creationDate>2013-02-05</creationDate>
+    <version>4.11.1</version>
+    <creationDate>2013-03-19</creationDate>
     <author>Hanjo Hingsen</author>
     <authorEmail>webmaster@treu-zu-kaarst.de</authorEmail>
     <authorUrl>http://www.treu-zu-kaarst.de</authorUrl>
@@ -28,14 +28,14 @@
                 </tr>
                 <tr>
                   <td width="22%"><u><strong>&Uuml;bersetzungsversion:</strong></u></td>
-                  <td width="80%">4.10.1 (passend zu AgoraPro 4.10)</td>
+                  <td width="80%">4.11.1 (passend zu AgoraPro 4.11)</td>
                 </tr>
                 <tr>
                   <td width="22%"><u><strong>Changelog:</strong></u></td>
                   <td width="80%"><ul>
-                                        <li>An AgoraPro v4.10 angepasst / Made Translations needed for AgoraPro v4.10</li>
+                                        <li>An AgoraPro v4.11 angepasst / Updated to fit AgoraPro v4.11</li>
                                         <li>Einige Tippfehler gefunden und korrigiert / Fixed some typos.</li>
-                                        <li>Einige fehlende Übersetzungen gefunden und korrigiert / Fixed some missing translations.</li>
+                                        <li>Einige fehlende Übersetzungen gefunden und nachgezogen / Made some missing translations.</li>
                                 </ul>
                   </td>
                 </tr>
