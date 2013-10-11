@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extensionset name="de-DE Agora Language Updates" description="de-DE Agora language updates">
-    <extension name="de-DE language for Agora Pro 4" element="pkg_AgoraPro4_de-DE_LanguagePack" type="package" version="4.0.021.0" detailsurl="http://www.treu-zu-kaarst.de/scet_update/de-DE_pkg_lng_agorapro4_update.xml"/>
+    <extension name="de-DE language for Agora Pro 4" element="pkg_AgoraPro4_de-DE_LanguagePack" type="package" version="4.0.021.1" detailsurl="http://www.treu-zu-kaarst.de/scet_update/de-DE_pkg_lng_agorapro4_update.xml"/>
 </extensionset>
