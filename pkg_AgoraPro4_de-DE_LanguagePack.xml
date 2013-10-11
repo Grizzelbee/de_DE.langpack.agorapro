@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="1.6" type="file" method="upgrade">
     <name>Agora Pro 4 de-DE Sprachpaket</name>
-    <version>4.12.1</version>
-    <creationDate>2013-04-04</creationDate>
+    <version>4.12.2</version>
+    <creationDate>2013-04-11</creationDate>
     <author>Hanjo Hingsen</author>
     <authorEmail>webmaster@treu-zu-kaarst.de</authorEmail>
     <authorUrl>http://www.treu-zu-kaarst.de</authorUrl>
@@ -28,14 +28,15 @@
                 </tr>
                 <tr>
                   <td width="22%"><u><strong>&Uuml;bersetzungsversion:</strong></u></td>
-                  <td width="80%">4.12.1 (passend zu AgoraPro 4.12)</td>
+                  <td width="80%">4.12.2 (passend zu AgoraPro 4.12)</td>
                 </tr>
                 <tr>
                   <td width="22%"><u><strong>Changelog:</strong></u></td>
                   <td width="80%"><ul>
-                                        <li>An AgoraPro v4.12 angepasst / Updated to fit AgoraPro v4.12</li>
-                                        <li>Frontend-Übersetzung für UddeIm wurde nicht installiert / Frontend translation for UddeIM-Integration missed in Install-Script</li>
-                                        <li>Backend-Übersetzung für das Search-AddOn wurde nicht installiert / Backend translation for the Search-AddOn missed in Install-Script</li>
+                                        <li>Die Modulüberschriften waren verloren gegangen.</li>
+                                        <li>Verweis auf den Updateserver ausgebaut. Ein Updateserver hierfür ergibt keinen Sinn.</li>
+                                        <li>Tippfehler gefunden und korrigiert.</li>
+                                        <li>Strings für Today und Yesterday zum Modul Latest Posts hinzugefügt.</li>
                                 </ul>
                   </td>
                 </tr>
@@ -113,9 +114,5 @@
             <filename>de-DE.plg_search_agorapro.sys.ini</filename>
         </files>
     </fileset>
-    
-    <updateservers>
-        <server type="file" priority="1" name="AgoraPro4 German Language Update Site">http://www.treu-zu-kaarst.de/scet_update/de-DE_pkg_lng_agorapro4_update.xml</server>
-    </updateservers>
     
 </extension>
