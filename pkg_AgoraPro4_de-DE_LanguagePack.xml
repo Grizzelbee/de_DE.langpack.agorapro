@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="1.6" type="file" method="upgrade">
     <name>Agora Pro 4 de-DE Sprachpaket</name>
-    <version>4.12.2</version>
-    <creationDate>2013-04-11</creationDate>
+    <version>4.12.3</version>
+    <creationDate>2013-04-12</creationDate>
     <author>Hanjo Hingsen</author>
     <authorEmail>webmaster@treu-zu-kaarst.de</authorEmail>
     <authorUrl>http://www.treu-zu-kaarst.de</authorUrl>
@@ -37,6 +37,7 @@
                                         <li>Verweis auf den Updateserver ausgebaut. Ein Updateserver hierfür ergibt keinen Sinn.</li>
                                         <li>Tippfehler gefunden und korrigiert.</li>
                                         <li>Strings für Today und Yesterday zum Modul Latest Posts hinzugefügt.</li>
+                                        <li>Fehler in den Sprachdateien korrigiert. Jetzt ist auch das Submenü in Deutsch</li>
                                 </ul>
                   </td>
                 </tr>
