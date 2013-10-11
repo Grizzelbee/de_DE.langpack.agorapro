@@ -6,6 +6,21 @@
         <description>German Translation of Agora Pro 4</description>
         <element>pkg_AgoraPro4_de-DE_LanguagePack</element>
         <type>file</type>
+        <version>4.0.03.1</version>
+        <downloads>
+            <downloadurl type="full" format="zip">
+                http://www.treu-zu-kaarst.de/scet_update/de-DE_pkg_lng_informal_agorapro4_v4.0.03.1.zip
+            </downloadurl>
+        </downloads>
+        <targetplatform name="joomla" version="2.5"/>
+    </update>
+
+
+    <update>
+        <name>Agora Pro 4 de-DE Sprachpaket</name>
+        <description>German Translation of Agora Pro 4</description>
+        <element>pkg_AgoraPro4_de-DE_LanguagePack</element>
+        <type>file</type>
         <version>4.0.021.1</version>
         <downloads>
             <downloadurl type="full" format="zip">
