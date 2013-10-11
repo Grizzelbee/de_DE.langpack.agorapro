@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="1.6" type="file" method="upgrade">
     <name>Agora Pro 4 de-DE Sprachpaket</name>
-    <version>4.0.03.3</version>
-    <creationDate>2012-08-16</creationDate>
+    <version>4.0.04.1</version>
+    <creationDate>2012-08-24</creationDate>
     <author>Hanjo Hingsen</author>
     <authorEmail>webmaster@treu-zu-kaarst.de</authorEmail>
     <authorUrl>http://www.treu-zu-kaarst.de</authorUrl>
@@ -28,11 +28,16 @@
                 </tr>
                 <tr>
                   <td width="22%"><u><strong>&Uuml;bersetzungsversion:</strong></u></td>
-                  <td width="80%">4.0.03.3 (passend zu AgoraPro 4.0.03)</td>
+                  <td width="80%">4.0.04.1 (passend zu AgoraPro 4.0.04)</td>
                 </tr>
                 <tr>
                   <td width="22%"><u><strong>Changelog:</strong></u></td>
-                  <td width="80%"><ul><li>"Beiträge in den letzten 24 Std. so gekürzt, dass es in die Spalte passt."</li></ul></td>
+                  <td width="80%"><ul>
+                                        <li>Neue Übersetzungen für AgoraPro V4.0.04 eingefügt</li>
+                                        <li>Tippfehler gefunden</li>
+                                        <li>Neue Erweiterung ExtendedReg übersetzt</li>
+                                </ul>
+                  </td>
                 </tr>
                 <td width="100%" colspan="2"><hr /></td>
                 <tr>
@@ -77,6 +82,7 @@
             <filename>de-DE.mod_agorian_profile.sys.ini</filename>
             <filename>de-DE.mod_agorians_online.ini</filename>
             <filename>de-DE.mod_agorians_online.sys.ini</filename>
+            <filename>de-DE.agorapro_adn_extendedreg.ini</filename>
         </files>
         <files folder="admin" target="administrator\language\de-DE">
             <filename>de-DE.com_agorapro.sys.ini</filename>
@@ -103,6 +109,7 @@
             <filename>de-DE.mod_agorapro_admin.ini</filename>
             <filename>de-DE.mod_agorapro_admin.sys.ini</filename>
             <filename>de-DE.agorapro_adn_integration_jomsocial.ini</filename>
+            <filename>de-DE.com_extendedreg_integration_agorapro.ini</filename>
         </files>
     </fileset>
     
