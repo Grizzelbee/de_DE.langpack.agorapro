@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<updates>
+
+    <update>
+        <name>Agora Pro 4 de-DE Sprachpaket</name>
+        <description>German Translation of Agora Pro 4</description>
+        <element>pkg_Agora4_de-DE</element>
+        <type>file</type>
+        <version>1.0.9</version>
+        <downloads>
+            <downloadurl type="full" format="zip">
+                http://www.treu-zu-kaarst.de/scet_update/de-DE_pkg_lng_informal_agorapro4_v1.0.9.zip
+            </downloadurl>
+        </downloads>
+        <targetplatform name="joomla" version="2.5"/>
+    </update>
+
+    <update>
+        <name>Agora_4_German</name>
+        <description>German Translation of Agora Pro 4</description>
+        <element>pkg_Agora4_de-DE</element>
+        <type>package</type>
+        <version>1.0.8</version>
+        <downloads>
+            <downloadurl type="full" format="zip">
+                http://www.treu-zu-kaarst.de/scet_update/de-DE_pkg_lng_informal_agorapro4_v1.0.8.zip
+            </downloadurl>
+        </downloads>
+        <targetplatform name="joomla" version="2.5"/>
+    </update>
+
+    <update>
+        <name>Agora_4_German</name>
+        <description>German Translation of Agora Pro 4</description>
+        <element>pkg_Agora4_de-DE</element>
+        <type>package</type>
+        <version>1.0.6</version>
+        <downloads>
+            <downloadurl type="full" format="zip">
+                http://www.treu-zu-kaarst.de/scet_update/de-DE_pkg_lng_informal_agorapro4_v1.0.6.zip
+            </downloadurl>
+        </downloads>
+        <targetplatform name="joomla" version="2.5"/>
+    </update>
+ 
+</updates>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="1.7" type="language" client="administrator" method="upgrade">
+    <name>Agora Pro 4 - German Backend</name>
+    <tag>de-DE</tag>
+    <version>1.0.8</version>
+    <creationDate>2012-05-10</creationDate>
+    <author>Hanjo Hingsen</author>
+    <authorEmail>webmaster@treu-zu-kaarst.de</authorEmail>
+    <authorUrl>http://www.treu-zu-kaarst.de</authorUrl>
+    <copyright>Copyright (C) 2012, All rights reserved.</copyright>
+    <license>GNU General Public License</license>
+    <description>Deutsche Backend-Übersetzung (informal) für AgoraPro 4.0.02</description>
+    <files>
+      <filename>de-DE.com_agorapro.sys.ini</filename>
+      <filename>de-DE.com_agorapro.menu.ini</filename>
+      <filename>de-DE.com_agorapro.ini</filename>
+      <filename>de-DE.agorapro_adn_userranks.ini</filename>
+      <filename>de-DE.agorapro_adn_socialbookmarks.ini</filename>
+      <filename>de-DE.agorapro_adn_rss.ini</filename>
+      <filename>de-DE.agorapro_adn_polls.ini</filename>
+      <filename>de-DE.agorapro_adn_notifications.ini</filename>
+      <filename>de-DE.agorapro_adn_metagora.ini</filename>
+      <filename>de-DE.agorapro_adn_menu.ini</filename>
+      <filename>de-DE.agorapro_adn_feeds.ini</filename>
+      <filename>de-DE.agorapro_adn_censoring.ini</filename>
+      <filename>de-DE.agorapro_adn_ban_controll.ini</filename>
+      <filename>de-DE.agorapro_adn_announcements.ini</filename>
+      <filename>de-DE.agorapro_adn_smilies.ini</filename>
+    </files>
+</extension>
