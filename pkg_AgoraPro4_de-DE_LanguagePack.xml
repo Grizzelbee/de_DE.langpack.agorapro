@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="1.6" type="file" method="upgrade">
     <name>Agora Pro 4 de-DE Sprachpaket</name>
-    <version>4.0.05.2</version>
+    <version>4.06.1</version>
     <creationDate>2012-10-25</creationDate>
     <author>Hanjo Hingsen</author>
     <authorEmail>webmaster@treu-zu-kaarst.de</authorEmail>
@@ -28,13 +28,12 @@
                 </tr>
                 <tr>
                   <td width="22%"><u><strong>&Uuml;bersetzungsversion:</strong></u></td>
-                  <td width="80%">4.0.05.2 (passend zu AgoraPro 4.0.05)</td>
+                  <td width="80%">4.06.1 (passend zu AgoraPro 4.06)</td>
                 </tr>
                 <tr>
                   <td width="22%"><u><strong>Changelog:</strong></u></td>
                   <td width="80%"><ul>
-                                        <li>Übersetzung für neues AddOn "Login" für AgoraPro V4.0.05 eingefügt</li>
-                                        <li>Ein paar Dateien bereinigt</li>
+                                        <li>An die Änderungen in AgoraPro 4.06 angepasst</li>
                                 </ul>
                   </td>
                 </tr>
