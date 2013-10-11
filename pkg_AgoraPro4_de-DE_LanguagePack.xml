@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="1.6" type="file" method="upgrade">
     <name>Agora Pro 4 de-DE Sprachpaket</name>
-    <version>4.13.1</version>
-    <creationDate>2013-06-03</creationDate>
+    <version>4.13.2</version>
+    <creationDate>2013-06-18</creationDate>
     <author>Hanjo Hingsen</author>
     <authorEmail>webmaster@treu-zu-kaarst.de</authorEmail>
     <authorUrl>http://www.treu-zu-kaarst.de</authorUrl>
@@ -28,12 +28,12 @@
                 </tr>
                 <tr>
                   <td width="22%"><u><strong>&Uuml;bersetzungsversion:</strong></u></td>
-                  <td width="80%">4.13.1 (passend zu AgoraPro 4.13)</td>
+                  <td width="80%">4.13.2 (passend zu AgoraPro 4.13 und Agora Notifications Pro v4.12)</td>
                 </tr>
                 <tr>
                   <td width="22%"><u><strong>Changelog:</strong></u></td>
                   <td width="80%"><ul>
-                                        <li>An AgoraPro 4.13 angepasst.</li>
+                                        <li>Übersetzung für Agora Notifications Pro eingebaut</li>
                                 </ul>
                   </td>
                 </tr>
@@ -66,6 +66,7 @@
             <filename>de-DE.agorapro_adn_metagora.ini</filename>
             <filename>de-DE.agorapro_adn_moderation.ini</filename>
             <filename>de-DE.agorapro_adn_notifications.ini</filename>
+            <filename>de-DE.agorapro_adn_notifications_pro.ini</filename>
             <filename>de-DE.agorapro_adn_pms.ini</filename>
             <filename>de-DE.agorapro_adn_polls.ini</filename>
             <filename>de-DE.agorapro_adn_ratings.ini</filename>
@@ -95,6 +96,7 @@
             <filename>de-DE.agorapro_adn_menu.ini</filename>
             <filename>de-DE.agorapro_adn_metagora.ini</filename>
             <filename>de-DE.agorapro_adn_notifications.ini</filename>
+            <filename>de-DE.agorapro_adn_notifications_pro.ini</filename>
             <filename>de-DE.agorapro_adn_polls.ini</filename>
             <filename>de-DE.agorapro_adn_rss.ini</filename>
             <filename>de-DE.agorapro_adn_smilies.ini</filename>
