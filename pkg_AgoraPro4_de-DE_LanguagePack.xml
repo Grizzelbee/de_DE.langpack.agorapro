@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="1.6" type="file" method="upgrade">
     <name>Agora Pro 4 de-DE Sprachpaket</name>
-    <version>4.11.1</version>
-    <creationDate>2013-03-19</creationDate>
+    <version>4.12.1</version>
+    <creationDate>2013-04-04</creationDate>
     <author>Hanjo Hingsen</author>
     <authorEmail>webmaster@treu-zu-kaarst.de</authorEmail>
     <authorUrl>http://www.treu-zu-kaarst.de</authorUrl>
@@ -28,14 +28,14 @@
                 </tr>
                 <tr>
                   <td width="22%"><u><strong>&Uuml;bersetzungsversion:</strong></u></td>
-                  <td width="80%">4.11.1 (passend zu AgoraPro 4.11)</td>
+                  <td width="80%">4.12.1 (passend zu AgoraPro 4.12)</td>
                 </tr>
                 <tr>
                   <td width="22%"><u><strong>Changelog:</strong></u></td>
                   <td width="80%"><ul>
-                                        <li>An AgoraPro v4.11 angepasst / Updated to fit AgoraPro v4.11</li>
-                                        <li>Einige Tippfehler gefunden und korrigiert / Fixed some typos.</li>
-                                        <li>Einige fehlende Übersetzungen gefunden und nachgezogen / Made some missing translations.</li>
+                                        <li>An AgoraPro v4.12 angepasst / Updated to fit AgoraPro v4.12</li>
+                                        <li>Frontend-Übersetzung für UddeIm wurde nicht installiert / Frontend translation for UddeIM-Integration missed in Install-Script</li>
+                                        <li>Backend-Übersetzung für das Search-AddOn wurde nicht installiert / Backend translation for the Search-AddOn missed in Install-Script</li>
                                 </ul>
                   </td>
                 </tr>
@@ -52,63 +52,65 @@
     </description>
     <fileset>
         <files folder="site" target="language/de-DE">
-            <filename>de-DE.com_agorapro.ini</filename>
-            <filename>de-DE.agorapro_adn_thanks.ini</filename>
-            <filename>de-DE.agorapro_adn_subscriptions.ini</filename>
-            <filename>de-DE.agorapro_adn_socialbookmarks.ini</filename>
-            <filename>de-DE.agorapro_adn_search.ini</filename>
-            <filename>de-DE.agorapro_adn_rss.ini</filename>
-            <filename>de-DE.agorapro_adn_ratings.ini</filename>
-            <filename>de-DE.agorapro_adn_polls.ini</filename>
-            <filename>de-DE.agorapro_adn_pms.ini</filename>
-            <filename>de-DE.agorapro_adn_notifications.ini</filename>
-            <filename>de-DE.agorapro_adn_moderation.ini</filename>
-            <filename>de-DE.agorapro_adn_metagora.ini</filename>
-            <filename>de-DE.agorapro_adn_menu.ini</filename>
+            <filename>de-DE.agorapro_adn_alphauserpoints.ini</filename>
+            <filename>de-DE.agorapro_adn_announcements.ini</filename>
+            <filename>de-DE.agorapro_adn_attachments.ini</filename>
+            <filename>de-DE.agorapro_adn_autoarticle.ini</filename>
+            <filename>de-DE.agorapro_adn_avatar.ini</filename>
+            <filename>de-DE.agorapro_adn_ban_controll.ini</filename>
+            <filename>de-DE.agorapro_adn_captcha.ini</filename>
+            <filename>de-DE.agorapro_adn_extendedreg.ini</filename>
+            <filename>de-DE.agorapro_adn_feeds.ini</filename>
+            <filename>de-DE.agorapro_adn_integration_uddeim.ini</filename>
             <filename>de-DE.agorapro_adn_likes.ini</filename>
             <filename>de-DE.agorapro_adn_login.ini</filename>
-            <filename>de-DE.agorapro_adn_feeds.ini</filename>
-            <filename>de-DE.agorapro_adn_captcha.ini</filename>
-            <filename>de-DE.agorapro_adn_ban_controll.ini</filename>
-            <filename>de-DE.agorapro_adn_avatar.ini</filename>
-            <filename>de-DE.agorapro_adn_attachments.ini</filename>
-            <filename>de-DE.agorapro_adn_announcements.ini</filename>
+            <filename>de-DE.agorapro_adn_menu.ini</filename>
+            <filename>de-DE.agorapro_adn_metagora.ini</filename>
+            <filename>de-DE.agorapro_adn_moderation.ini</filename>
+            <filename>de-DE.agorapro_adn_notifications.ini</filename>
+            <filename>de-DE.agorapro_adn_pms.ini</filename>
+            <filename>de-DE.agorapro_adn_polls.ini</filename>
+            <filename>de-DE.agorapro_adn_ratings.ini</filename>
+            <filename>de-DE.agorapro_adn_rss.ini</filename>
+            <filename>de-DE.agorapro_adn_search.ini</filename>
+            <filename>de-DE.agorapro_adn_socialbookmarks.ini</filename>
+            <filename>de-DE.agorapro_adn_subscriptions.ini</filename>
+            <filename>de-DE.agorapro_adn_thanks.ini</filename>
             <filename>de-DE.agorapro_adn_topic_announcements.ini</filename>
-            <filename>de-DE.agorapro_adn_alphauserpoints.ini</filename>
-            <filename>de-DE.agorapro_adn_autoarticle.ini</filename>
+            <filename>de-DE.com_agorapro.ini</filename>
             <filename>de-DE.mod_agorapro_latest.ini</filename>
             <filename>de-DE.mod_agorapro_latest.sys.ini</filename>
             <filename>de-DE.mod_agorian_profile.ini</filename>
             <filename>de-DE.mod_agorian_profile.sys.ini</filename>
             <filename>de-DE.mod_agorians_online.ini</filename>
             <filename>de-DE.mod_agorians_online.sys.ini</filename>
-            <filename>de-DE.agorapro_adn_extendedreg.ini</filename>
         </files>
         <files folder="admin" target="administrator\language\de-DE">
-            <filename>de-DE.com_agorapro.sys.ini</filename>
-            <filename>de-DE.com_agorapro.menu.ini</filename>
-            <filename>de-DE.com_agorapro.ini</filename>
-            <filename>de-DE.agorapro_adn_userranks.ini</filename>
-            <filename>de-DE.agorapro_adn_socialbookmarks.ini</filename>
-            <filename>de-DE.agorapro_adn_rss.ini</filename>
-            <filename>de-DE.agorapro_adn_polls.ini</filename>
-            <filename>de-DE.agorapro_adn_notifications.ini</filename>
-            <filename>de-DE.agorapro_adn_metagora.ini</filename>
-            <filename>de-DE.agorapro_adn_menu.ini</filename>
-            <filename>de-DE.agorapro_adn_feeds.ini</filename>
-            <filename>de-DE.agorapro_adn_censoring.ini</filename>
-            <filename>de-DE.agorapro_adn_ban_controll.ini</filename>
             <filename>de-DE.agorapro_adn_announcements.ini</filename>
-            <filename>de-DE.agorapro_adn_smilies.ini</filename>
-            <filename>de-DE.agorapro_conv_kunena.ini</filename>
-            <filename>de-DE.plg_search_agorapro.sys.ini</filename>
             <filename>de-DE.agorapro_adn_autoarticle.ini</filename>
+            <filename>de-DE.agorapro_adn_ban_controll.ini</filename>
+            <filename>de-DE.agorapro_adn_censoring.ini</filename>
             <filename>de-DE.agorapro_adn_discuss.ini</filename>
+            <filename>de-DE.agorapro_adn_feeds.ini</filename>
             <filename>de-DE.agorapro_adn_integration_cb.ini</filename>
+            <filename>de-DE.agorapro_adn_integration_jomsocial.ini</filename>
+            <filename>de-DE.agorapro_adn_menu.ini</filename>
+            <filename>de-DE.agorapro_adn_metagora.ini</filename>
+            <filename>de-DE.agorapro_adn_notifications.ini</filename>
+            <filename>de-DE.agorapro_adn_polls.ini</filename>
+            <filename>de-DE.agorapro_adn_rss.ini</filename>
+            <filename>de-DE.agorapro_adn_smilies.ini</filename>
+            <filename>de-DE.agorapro_adn_socialbookmarks.ini</filename>
+            <filename>de-DE.agorapro_adn_userranks.ini</filename>
+            <filename>de-DE.agorapro_conv_kunena.ini</filename>
+            <filename>de-DE.com_agorapro.ini</filename>
+            <filename>de-DE.com_agorapro.menu.ini</filename>
+            <filename>de-DE.com_agorapro.sys.ini</filename>
+            <filename>de-DE.com_extendedreg_integration_agorapro.ini</filename>
             <filename>de-DE.mod_agorapro_admin.ini</filename>
             <filename>de-DE.mod_agorapro_admin.sys.ini</filename>
-            <filename>de-DE.agorapro_adn_integration_jomsocial.ini</filename>
-            <filename>de-DE.com_extendedreg_integration_agorapro.ini</filename>
+            <filename>de-DE.plg_search_agorapro.ini</filename>
+            <filename>de-DE.plg_search_agorapro.sys.ini</filename>
         </files>
     </fileset>
     
